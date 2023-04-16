@@ -36,6 +36,18 @@ Colors:
 - Body text - dark gray #777
 ******************************************/
 
+.image-c {
+  height: 600px;
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imm {
+  height: 100%;
+  width: 100%;
+}
+
 /******************************/
 /*     01. General Styles     */
 /******************************/
